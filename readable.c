@@ -3,7 +3,8 @@
 int main()
 {
 	int x=0,i;
-	a:i=getchar();
+	a:
+	i=getchar();
 	if(x==256||x==-1)
 		x=0;
 	if(i=='i')
